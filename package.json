@@ -1,6 +1,6 @@
 {
   "name": "@exfabrica/strapi-plugin-awesome-help",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Add contextual helps for your Strapi Content-Types.",
   "strapi": {
     "name": "awesome-help",
@@ -25,7 +25,7 @@
     }
   ],
   "engines": {
-    "node": ">=12.x.x <=18.x.x",
+    "node": ">=16.x.x <=20.x.x",
     "npm": ">=6.0.0"
   },
   "license": "MIT",
